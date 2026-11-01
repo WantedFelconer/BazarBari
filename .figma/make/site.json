@@ -1,0 +1,11 @@
+{
+  "title": "BazarBari — Online Shopping in Bangladesh",
+  "description": "A Bangladesh-focused online marketplace for discovering and buying electronics, fashion, groceries, and home essentials with local payments, delivery, and order tracking.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
